@@ -1,4 +1,4 @@
-# Custom MCP Server with n8n and Claude
+# Custom MCP Server 
 
 A no-code/low-code integration project that exposes selected external actions to Claude through a custom **Model Context Protocol (MCP)** server built in **n8n**.
 
